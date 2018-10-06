@@ -1,0 +1,7 @@
+Clean distribution...
+Build application for default OS...
+End.Build
+Running application:
+-------------------
+
+Hello World!
