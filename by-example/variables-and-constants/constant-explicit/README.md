@@ -1,4 +1,4 @@
-# 2.3 Explicit Constant
+# 2.3. Explicit Constant
 
 Explicit Constant in Go. Here's the full source code.
 

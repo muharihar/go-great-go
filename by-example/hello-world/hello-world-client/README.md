@@ -1,4 +1,4 @@
-# 1.4 Hello World (HTTP) Client
+# 1.4. Hello World (HTTP) Client
 
 Let's make a simple "Hello World (HTTP) Client" using Go. Here's the full source code.
 

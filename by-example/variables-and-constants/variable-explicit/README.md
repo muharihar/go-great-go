@@ -1,4 +1,4 @@
-# 2.1 Explicit Variable
+# 2.1. Explicit Variable
 
 Explicit Variable in Go. Here's the full source code.
 

@@ -1,4 +1,4 @@
-# 1.1 Hello World Main
+# 1.1. Hello World Main
 
 Let's print "Hello World!" using Go. Here's the full source code.
 

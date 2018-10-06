@@ -1,4 +1,4 @@
-# 2.2 Implicit Variable
+# 2.2. Implicit Variable
 
 Implicit Variable in Go. Here's the full source code.
 
