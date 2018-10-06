@@ -1,6 +1,6 @@
 # Hello World Main
 
-Let's print "Hello, World!" using Go. Here's the full source code.
+Let's print "Hello World!" using Go. Here's the full source code.
 
 #### main.go
 
