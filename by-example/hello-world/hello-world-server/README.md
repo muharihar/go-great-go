@@ -1,4 +1,4 @@
-# Hello World (HTTP) Server
+# 1.3 Hello World (HTTP) Server
 
 Let's make a simple "Hello World (HTTP) Server" using Go. Here's the full source code.
 

@@ -1,4 +1,4 @@
-# Implicit Constant
+# 2.4 Implicit Constant
 
 Implicit Constant in Go. Here's the full source code.
 
