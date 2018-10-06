@@ -18,7 +18,7 @@ GOOS=darwin GOARCH=amd64 go build -o dist/mac/hello-world-server main.go
 echo "End.Build" 
 
 ###
-echo "Build application for Mac OS..."
+echo "Build application for Windows (64bit) OS..."
 GOOS=windows GOARCH=amd64 go build -o dist/win/hello-world-server.exe main.go 
 echo "End.Build" 
 
