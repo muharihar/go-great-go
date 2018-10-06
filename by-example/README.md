@@ -21,4 +21,4 @@ List of samples:
 2.1 | [Explicit Variable](variables-and-constants/variable-explicit) | Explicit variable in Go.
 2.2 | [Implicit Variable](variables-and-constants/variable-implicit) | Implicit variable in Go.
 2.3 | [Explicit Constant](variables-and-constants/constant-explicit) | Explicit constant in Go.
-2.3 | [Implicit Constant](variables-and-constants/constant-implicit) | Explicit constant in Go.
+2.4 | [Implicit Constant](variables-and-constants/constant-implicit) | Explicit constant in Go.
