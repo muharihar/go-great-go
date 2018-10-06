@@ -1,10 +1,6 @@
 # Hello World Concurrent
+
 Let's use Go to print "Hello, World!" in Concurrent. In Go, you need to use goroutine to represent Concurrent  of execution.
-
-
-#### Golang Playground
-
-[Klik here to Run Hello World Concurrent on Golang Playground](https://play.golang.org/p/s7Gv1MuVcSp)
 
 #### main.go
 
@@ -52,3 +48,18 @@ hello-world-concurrent
     │       └── hello-world-concurrent.exe
     └── main.go
 ```
+
+## Build and Run
+
+#### Running with "go run"
+
+```bash
+$ go run main.go
+Hello World! #2
+Hello World! #3
+Hello World! #1
+```
+
+#### Running with Golang Playground
+
+[Klik here to Run Hello World Concurrent on Golang Playground](https://play.golang.org/p/s7Gv1MuVcSp)

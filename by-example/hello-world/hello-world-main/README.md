@@ -1,9 +1,6 @@
 # Hello World Main
+
 Let's print "Hello, World!" using Go. Here's the full source code.
-
-#### Golang Playground
-
-[Klik here to Run Hello World Main on Golang Playground](https://play.golang.org/p/oid3fhp9Cru)
 
 #### main.go
 
@@ -37,3 +34,16 @@ hello-world-main
     │       └── hello-world-main.exe
     └── main.go
 ```
+
+## Build and Run
+
+#### Running with "go run"
+
+```bash
+$ go run main.go
+Hello World!
+```
+
+#### Golang Playground
+
+[Klik here to Run Hello World Main on Golang Playground](https://play.golang.org/p/oid3fhp9Cru)
