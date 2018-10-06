@@ -27,6 +27,7 @@ func main() {
 
 	time.Sleep(100 * time.Millisecond)
 }
+
 ```
 
 #### Project Structure
@@ -47,6 +48,7 @@ hello-world-concurrent
     │   └── win
     │       └── hello-world-concurrent.exe
     └── main.go
+
 ```
 
 ## Build and Run
@@ -58,6 +60,7 @@ $ go run main.go
 Hello World! #2
 Hello World! #3
 Hello World! #1
+
 ```
 
 #### Running with Golang Playground

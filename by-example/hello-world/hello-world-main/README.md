@@ -12,6 +12,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello World!")
 }
+
 ```
 
 #### Project Structure
@@ -33,6 +34,7 @@ hello-world-main
     │   └── win
     │       └── hello-world-main.exe
     └── main.go
+
 ```
 
 ## Build and Run
@@ -42,6 +44,7 @@ hello-world-main
 ```bash
 $ go run main.go
 Hello World!
+
 ```
 
 #### Golang Playground

@@ -3,9 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	const anInt = 10
-	const aStr = "I am a string"
+	// var anInt int   // = 10
+	// var aStr string // = "I am a string"
 
-	fmt.Println("Integer Implicit Constant: ", anInt)
-	fmt.Println("String Implicit Constant: ", aStr)
+	anInt := 10
+	aStr := "I am a string"
+
+	fmt.Println("Integer Implicit Variable: ", anInt)
+	fmt.Println("String Implicit Variable: ", aStr)
 }
