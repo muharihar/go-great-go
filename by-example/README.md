@@ -30,3 +30,4 @@ List of samples:
 `#`  | Sample | Description
 ---- | ------ | -----------
 3.1 | [Zero Values](values-and-types/zero-values) | Simple zero values in Go. 
+3.2 | [Basic Types](values-and-types/basic-type) | Basic types in Go. 
