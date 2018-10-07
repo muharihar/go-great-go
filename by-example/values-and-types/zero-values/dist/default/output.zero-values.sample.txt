@@ -1,0 +1,21 @@
+Clean distribution...
+Build application for default OS...
+End.Build
+Build application for Linux OS...
+End.Build
+Build application for Mac OS...
+End.Build
+Build application for Windows (64bit) OS...
+End.Build
+Running application:
+-------------------
+
+i (int) : 0 
+i8 (int8) : 0 
+i16 (int16) : 0 
+i32 (int32) : 0 
+i64 (int64) : 0 
+f32 (float32) : 0 
+f64 (float64) : 0 
+b (bool) : false 
+s (string) : "" 

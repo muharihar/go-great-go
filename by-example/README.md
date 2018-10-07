@@ -22,3 +22,11 @@ List of samples:
 2.2 | [Implicit Variable](variables-and-constants/variable-implicit) | Implicit variable in Go.
 2.3 | [Explicit Constant](variables-and-constants/constant-explicit) | Explicit constant in Go.
 2.4 | [Implicit Constant](variables-and-constants/constant-implicit) | Explicit constant in Go.
+
+## 3. Values and Types
+
+List of samples:
+
+`#`  | Sample | Description
+---- | ------ | -----------
+3.1 | [Zero Values](values-and-types/zero-values) | Simple zero values in Go. 
